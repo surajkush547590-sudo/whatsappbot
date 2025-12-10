@@ -1,0 +1,37 @@
+{
+  "918700462560@c.us": {
+    "flow": "ELIGIBILITY",
+    "step": "ask_ielts",
+    "data": {
+      "age": 25,
+      "education": "12",
+      "experience": 3
+    },
+    "greeted": true
+  },
+  "56479306485956@lid": {
+    "flow": "CANADA_PR",
+    "step": "service",
+    "data": {},
+    "personal": {
+      "name": "Somi Ali",
+      "phone": "917210422143",
+      "email": "somi@ggims.com",
+      "age": 25,
+      "city": "delhi",
+      "country": "India",
+      "education": "Bachelor",
+      "experience": 5
+    },
+    "personalIndex": 8,
+    "greeted": true
+  },
+  "919315723846@c.us": {
+    "flow": null,
+    "step": null,
+    "data": {},
+    "personal": {},
+    "personalIndex": 0,
+    "greeted": true
+  }
+}
